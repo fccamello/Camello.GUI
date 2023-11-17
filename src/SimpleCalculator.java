@@ -1,13 +1,9 @@
-package SimpleCalculator;
-
 import javax.swing.*;
 import javax.swing.border.Border;
 import javax.swing.BorderFactory;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import static java.awt.Color.black;
 
 public class SimpleCalculator extends JFrame {
     private JTextField tfNumber1;
